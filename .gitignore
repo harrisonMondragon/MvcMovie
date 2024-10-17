@@ -7,3 +7,7 @@
 /*.suo
 .vscode/
 /*.vs
+
+# Ignore SQLite temporary files
+*.db-shm
+*.db-wal
